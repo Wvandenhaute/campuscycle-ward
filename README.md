@@ -164,6 +164,7 @@ collection, a filter, the booking under your own name, a map).
   `npm start` do not.
 - **Secrets only in Vercel and in `.env.local`.** Never in a file you commit.
 
+
 ## Licence and credits
 
 - The code: MIT licence, in [LICENSE](LICENSE). You may use, change and share this code; keep the
